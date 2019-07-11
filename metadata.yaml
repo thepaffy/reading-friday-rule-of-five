@@ -1,0 +1,14 @@
+---
+title: "Modern C++"
+subtitle: "Rvalue references, move semantics & rule of five"
+author: "Christian Paffhausen"
+date: \today{}
+subject: "Modern C++"
+keywords: "cpp"
+lang: en
+titlepage: true
+titlepage-color: "FFFFFF'"
+titlepage-text-color: "000000"
+titlepage-rule-color: "B3C618"
+listings-disable-line-numbers: true
+...
